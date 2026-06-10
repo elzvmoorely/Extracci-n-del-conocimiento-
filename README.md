@@ -26,15 +26,15 @@ Aplicar herramientas de análisis de datos para obtener conocimiento útil a par
 
 ### Carpeta notebook
 
-- Laboratorio1.ipynb
-- Laboratorio2.ipynb
-- Laboratorio3.ipynb
-- Laboratorio4.ipynb
-- laboratorio5.ipynb
-- Laboratorio6.ipynb
-- instagram.ipynb
+Lab01.ipynb
+Lab02.ipynb
+Lab03.ipynb
+Lab04.ipynb
+Lab05.ipynb
+Lab06.ipynb
+instagram.ipynb
 
-### Carpeta data
+### Carpeta DataSet
 
 - dataset_sucio_practica.csv
 
